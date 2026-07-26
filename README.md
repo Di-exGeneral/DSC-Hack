@@ -93,7 +93,7 @@ forensiq/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-org>/forensiq.git
+   git clone [https://github.com/<your-org>/forensiq.git](https://github.com/Di-exGeneral/DSC-Hack)
    cd forensiq
    ```
 2. Create an environment and install dependencies:
