@@ -1,5 +1,13 @@
-# DSC-Hack
+## DSC-Hack
+## Group Name: Random_Group
 
+## Group Members
+- Tlotliso Ledwaba
+- Lucky Pinga
+- Olerato Matsobe
+- Ngudo Mutavhatsindi
+
+  
 # ForensIQ
 
 **AI-Powered Transaction Intelligence for Financial Crime Detection**
